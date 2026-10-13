@@ -41,6 +41,9 @@ export default function TabLayout() {
          {focused ? 'person':'person-outline'} size={26}
          color = {color}/>
       }}/>
+
     </Tabs>
   );
 }
+
+// checking
